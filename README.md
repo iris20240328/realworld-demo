@@ -96,3 +96,6 @@ Drill4J services:
 
 1. Navigate to `docker` folder
 2. Execute `teardown.sh` script
+
+
+Testing
