@@ -98,4 +98,4 @@ Drill4J services:
 2. Execute `teardown.sh` script
 
 
-Testing 6
+Testing 7
